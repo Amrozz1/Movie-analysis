@@ -1,6 +1,3 @@
- My First Step into Data Science! 📊
-
-I'm thrilled to share my very first project in the world of data Science!
  As a mini-project with Digital Egypt Pioneers Initiative - DEPI , I explored a fascinating movie dataset to uncover insights about what drives a movie's success.
 
 Highlights:
